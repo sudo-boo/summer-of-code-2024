@@ -1,0 +1,79 @@
+﻿1. Backtester Engine and Optimizer [ Project ID: 124 ]
+
+
+Hello Rohit and Apoorva,
+
+Hope you both are doing great.!
+
+I am Omkar, to-be third year student in CSE Dept. with a keen interest in ML and financial markets.
+
+My motivation and the reason I am applying for this project with my utmost priority is because this project aligns perfectly with my interests in ML, and its applications in finance. And also it would allow me to utilize my Summers in the best possible way. 
+I am excited to apply for the 'Backtester Engine and Optimizer' project, which aims to develop a trading strategy analysis tool utilizing ML algorithms.
+
+We've recently had AI/ML and Design of Algos courses that enabled me to explore more in this field. I've done an RNN based time-series analysis project. I've also done a project in Algorithmic Trading and successfully completed it, displaying my passion and proficiency about these topics. Having such a strong foundation in ML and Algorithm Development, along with my interest in Finance, makes me a perfect candidate for this project.
+
+I really do want to do this project as I've really been wanting to kick-start my journey in this domain with a project and this is the perfect opportunity for me to get it done and aid my interest.
+
+I am excited about the possibility of working with you and am looking forward to the opportunity to learn and grow through this project.
+
+
+Regards,
+Omkar Shirpure
+(22B0910)
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
+2. Deep Reinforcement Learning for stock trading [ Project ID: 69 ]
+
+
+Hello Himanshu,
+
+Hope you are doing great.!
+
+I am Omkar, to-be third year student in CSE Dept. with a keen interest in ML, financial markets especially trading and Quantitative analysis.
+
+Besides this project's ID being a very interesting number ;-), my motivation and the reason I am applying for this project with higher priority is because this project aligns perfectly with my interests in ML, and its applications in finance. I've always been fascinated about the Reinforcement Learning subdomain of ML. Unfortunately, and as you may also know, it is not deeply explored in introductory AI/ML courses. That's why I'm highly eager to explore RL subdomain that too within Stocks Trading. This project is like a golden opportunity for me to aid my interests in this topic. Also this would allow me to utilize my Summers in the best possible way.
+
+We've recently had AI/ML and Design of Algos courses that enabled me to explore more in this field. I've done an RNN based time-series analysis project. I've also done a project in Algorithmic Trading and successfully completed it, displaying my proficiency and proficiency about these topics. Having such a strong foundation in ML and Algorithm Development, along with my interest in Finance, makes me a perfect candidate for this project.
+
+I am highly enthusiastic and confident that I can do justice to this project, making the most of this perfect opportunity to kick-start my journey in this domain.
+
+I am excited about the possibility of working with you and am looking forward to the opportunity to learn and grow through this project.
+
+
+Regards,
+Omkar Shirpure
+(22B0910)
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
+
+3. General Alpha Zero [ Project ID: 16 ]
+
+
+Hello Aman and Dileep,
+
+Hope you both are doing great!
+
+I am Omkar, a to-be third-year student in the CSE Department with a keen interest in ML and its applications in developing intelligent models. I am highly motivated and excited to apply for the 'General Alpha Zero' project as it perfectly aligns with my interests. Moreover, this project provides an excellent opportunity for me to utilize my summer productively.
+
+My motivation and the reason I am particularly interested and highly enthusiastic about this project is that this provides me a perfect opportunity to learn about the Reinforcement Learning subdomain of ML and its applications in developing highly outperforming game models.
+
+Having recently completed courses in AI/ML and Design of Algorithms, I have gained significant insights and experience in this field. But for me this sub-domain of RL is still unexplored and I really want to study this on a practical level through this project. And I think qualifications of all the prerequisites and eager to explore the Game Model Development ideas makes me a perfect candidate for this project.
+
+I am excited about the possibility of working with you and look forward to the opportunity to learn and grow through this project.
+
+Thank you for considering my application.
+
+
+Best regards,
+Omkar Shirpure
+(22B0910)
